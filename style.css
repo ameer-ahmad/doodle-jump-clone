@@ -1,0 +1,20 @@
+.grid {
+    width: 400px;
+    height: 600px;
+    background-color: yellow;
+    position: relative;
+    font-size: 200px;
+    text-align: center;
+}
+
+.ball {
+    background-image: url('./images/basket-ball.png');
+    position: absolute;
+}
+
+.platform {
+    width: 85px;
+    height: 15px;
+    background-color: green;
+    position: absolute;
+}
